@@ -1,5 +1,5 @@
 # TheBESTcalculator
-This calculator is made to a test my knowledge. It combines many aspects of math such as:
+This calculator is made to test my knowledge whilst expanding it. It combines many aspects of math such as:
 * Addition/Subtraction/Multiplication/Division
 * Solving figures (perimeter, area, biggest side) such as:
    - circle
